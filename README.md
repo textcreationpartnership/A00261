@@ -36,11 +36,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A bryefe and plaine declaracion of certayne sente[n]ces in this litle boke folowing to satisfie the 
+
+1. To the reader.
+
+1. The Prologe.
+
 #####Body#####
-A bryefe and plaine declaracion of certayne sente[n]ces in this litle boke folowing to satisfie the 
+
+1. The articles of the chri•…ten fayth.
+
+1. ¶ The sacrament of Baptysme.
+
+1. ¶ Of the supper of the lorde.
+
+1. ¶ Of the very chrstian kyngdome.
+
+1. ¶ The weapons wherwyth a very christian ought to fyght.
+
+1. ¶ Of Matrymonye.
+
 #####Back#####
-A bryefe and plaine declaracion of certayne sente[n]ces in this litle boke folowing to satisfie the 
+
+1. To the reader.
+☞ Praye Christian reader that the worde of the Lord may haue free passage, and that we may lyue a Go
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
